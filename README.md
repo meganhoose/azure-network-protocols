@@ -45,6 +45,3 @@ Detailed by the steps below, I observed various network traffic to and from Azur
 - Filter for RDP traffic in Wireshark
 - Observe the non-stop spam of traffic
 - Close Remote Desktop and delete the resource groups/VMs
-
-- 
-
