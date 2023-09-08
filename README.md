@@ -142,12 +142,4 @@ Detailed by the tutorial below, I observed various network traffic to and from A
 
 22. Observe the non-stop spam of traffic
 
-
 23. Close Remote Desktop and delete the resource groups/VMs
-
-
-
-
-
-
-
