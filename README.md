@@ -91,7 +91,9 @@ Detailed by the tutorial below, I observed various network traffic to and from A
 
 10.  Observe ICMP traffic in Wireshark
 
-  
+  ![filter by ICMP traffic in wireshark](https://github.com/meganhoose/azure-network-protocols/assets/142938638/800fe062-d59c-482c-ba60-3d16992c8347)
+
+
 11.  Re-enable ICMP traffic
 
 12.  Observe ICMP traffic in Wireshark again
@@ -117,6 +119,34 @@ Detailed by the tutorial below, I observed various network traffic to and from A
 
 
 17. Observe DHCP traffic in Wireshark
+
+![filter by dhcp traffic](https://github.com/meganhoose/azure-network-protocols/assets/142938638/7a6c0d0b-5d0e-4fd9-a7a1-0fa60f83fdb9)
+
+
+18. Filter for DNS traffic in Wireshark
+
+![filter by dns traffic and type in nslookup for google](https://github.com/meganhoose/azure-network-protocols/assets/142938638/e51ee30b-5b6a-4f4e-9471-7321a8217124)
+
+
+19. Use nslookup in command line to find what the IP addresses are for a few public websites
+
+![nslookup search cname](https://github.com/meganhoose/azure-network-protocols/assets/142938638/9ef59065-eca8-42e4-835d-2a6c96e4ca67)
+
+
+20. Observe DNS traffic in Wireshark
+
+21. Filter for RDP traffic in Wireshark
+
+![filter by rdp traffic](https://github.com/meganhoose/azure-network-protocols/assets/142938638/8e2fe167-f931-4ae5-b927-add1fe4a50c5)
+
+
+22. Observe the non-stop spam of traffic
+
+
+23. Close Remote Desktop and delete the resource groups/VMs
+
+
+
 
 
 
