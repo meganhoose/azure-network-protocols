@@ -47,7 +47,7 @@ Detailed by the tutorial below, I observed various network traffic to and from A
 - Close Remote Desktop and delete the resource groups/VMs
 
 
-<h2>Installation Steps</h2>
+<h2>Actions and Observations</h2>
 
 1. Create a resource group in Azure
 
